@@ -1,0 +1,10 @@
+.exit {
+  opacity: 0;
+  transform: translateX(-48px);
+  transition: all 200ms linear;
+}
+.enter {
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 200ms linear;
+}

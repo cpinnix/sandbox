@@ -1,0 +1,13 @@
+body {
+  background-color: #eee;
+}
+
+.neumorphic-button {
+  background: #eeeeee;
+  box-shadow: 6px 6px 12px #c1c1c1, -6px -6px 12px #ffffff;
+}
+
+.neumorphic-button:active {
+  background: #eeeeee;
+  box-shadow: inset 6px 6px 12px #c1c1c1, inset -6px -6px 12px #ffffff;
+}
